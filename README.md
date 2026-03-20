@@ -54,8 +54,6 @@ cd DOOM2016-Font-Tool
    ```bash
    g++ main.cpp -o doom_font_tool.exe -std=c++17 -O3
    ```
-## 🙏 Credits
-
-If you use this tool or its code, please give credit to the original author.
-
-Created by Darkil (https://github.com/Darkil1)
+## 📜 License
+This project is licensed under the GNU General Public License v3.0 (GPLv3). 
+You are free to use, modify, and distribute this software. However, any modified versions or derived works must also be open-source and distributed under the same GPLv3 license, with original authorship properly credited to Darkil1.
